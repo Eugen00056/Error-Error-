@@ -1,4 +1,3 @@
-from PIL import Image
 from tkinter import *
 from tr import *
 from tkinter import ttk
